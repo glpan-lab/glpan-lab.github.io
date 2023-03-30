@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2023/03/30/usefulcommand/"/>
+      <url>/2023/03/30/usefulcommand/</url>
+      
+        <content type="html"><![CDATA[<h1 id="some-useful-linux-commmand"><a href="#some-useful-linux-commmand" class="headerlink" title="some useful linux commmand"></a>some useful linux commmand</h1><h2 id="change-directory"><a href="#change-directory" class="headerlink" title="change directory"></a>change directory</h2><p>command cd which means change directory</p><h2 id="ls"><a href="#ls" class="headerlink" title="ls"></a>ls</h2><p>command ls which means list </p><p>options: -a -l<br>command ls -al &#x3D;&#x3D;&#x3D; ll</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World, using hexo, github to create your own blog</title>
       <link href="/2023/03/30/hello-world/"/>
       <url>/2023/03/30/hello-world/</url>

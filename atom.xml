@@ -6,7 +6,7 @@
   <link href="https://glpan-lab.github.io/atom.xml" rel="self"/>
   
   <link href="https://glpan-lab.github.io/"/>
-  <updated>2023-03-30T07:06:27.908Z</updated>
+  <updated>2023-03-30T07:16:56.467Z</updated>
   <id>https://glpan-lab.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://glpan-lab.github.io/2023/03/30/usefulcommand/"/>
+    <id>https://glpan-lab.github.io/2023/03/30/usefulcommand/</id>
+    <published>2023-03-30T07:16:56.463Z</published>
+    <updated>2023-03-30T07:16:56.467Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="some-useful-linux-commmand"><a href="#some-useful-linux-commmand" class="headerlink" title="some useful linux commmand"></a>some useful linux commmand</h1><h2 id="change-directory"><a href="#change-directory" class="headerlink" title="change directory"></a>change directory</h2><p>command cd which means change directory</p><h2 id="ls"><a href="#ls" class="headerlink" title="ls"></a>ls</h2><p>command ls which means list </p><p>options: -a -l<br>command ls -al &#x3D;&#x3D;&#x3D; ll</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;some-useful-linux-commmand&quot;&gt;&lt;a href=&quot;#some-useful-linux-commmand&quot; class=&quot;headerlink&quot; title=&quot;some useful linux commmand&quot;&gt;&lt;/a&gt;some use</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World, using hexo, github to create your own blog</title>
